@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+
+# Build output
+bin/
+obj/
+
+# Rider (nếu sau này dùng)
+.idea/
+
+# User-specific files
+*.user
+
+# Log files
+*.log
